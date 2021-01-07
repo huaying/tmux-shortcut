@@ -26,6 +26,12 @@ tmux ls
 
 # vertically split the screen
 ^B %
+
+# rename session
+^B $
+
+# rename window
+^B ,
 ```
 
 ## In Split mode
